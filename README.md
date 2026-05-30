@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/rishavraj-singh" target="_blank">
+  <a href="https://www.linkedin.com/in/rishavraj-singh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="center">Hey there 👋, I'm Rishavraj Singh</h2>
+<h1 align="center">Hey there 👋, I'm Rishavraj Singh</h1>
 
 ###
 
@@ -70,13 +70,17 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<br clear="both">
+
+<h3 align="left">📊 GitHub Statistics</h3>
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/singhrishav23/singhrishav23/stats-output/stats.svg" height="250" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/singhrishav23/singhrishav23/languages-output/languages.svg" height="150" alt="languages graph"  />
+<br clear="both">
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/singhrishav23/singhrishav23/stats-output/stats.svg" height="250" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/singhrishav23/singhrishav23/languages-output/languages.svg" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=singhrishav23&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
