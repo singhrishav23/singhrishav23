@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Front-End Developer | JavaScript, React.js & Tailwind CSS<br>🚀 Building responsive user-friendly web applications<br>🧠 Data Structures & Algorithms<br>🎓 CS Graduate 2026<br>🤝 Open to Software Engineering Opportunities<br>🌱 Expanding expertise in MERN Stack Backend Development
+💻 Front-End Developer | JavaScript, React.js & Tailwind CSS<br>🚀 Building responsive user-friendly web applications<br>🧠 Data Structures & Algorithms<br>🎓 CS Graduate 2026<br>🤝 Open to Software Engineering Opportunities<br>🌱 Expanding expertise in MERN Stack Backend Development 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishavraj-singh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishavpce@gmail.com)
