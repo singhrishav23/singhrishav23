@@ -1,6 +1,4 @@
 # 💫 About Me:
-
-
 💻 Front-End Developer | JavaScript, React.js & Tailwind CSS<br>🚀 Building responsive user-friendly web applications<br>🧠 Data Structures & Algorithms<br>🎓 CS Graduate 2026<br>🤝 Open to Software Engineering Opportunities<br>🌱 Expanding expertise in MERN Stack Backend Development 
 
 ## 🌐 Socials:
