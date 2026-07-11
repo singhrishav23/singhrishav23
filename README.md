@@ -1,24 +1,199 @@
-# 💫 About Me:
-💻 Front-End Developer | JavaScript, React.js & Tailwind CSS<br>🚀 Building responsive user-friendly web applications<br>🧠 Data Structures & Algorithms<br>🎓 CS Graduate 2026<br>🤝 Open to Software Engineering Opportunities<br>🌱 Expanding expertise in MERN Stack Backend Development 
+# Rishav Raj Singh
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishavraj-singh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishavpce@gmail.com)
+> **Software Engineer \| MERN Stack Developer \| React.js \| Backend
+> Development \| DSA**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+```{=html}
+<p align="center">
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD,7B68EE,8A2BE2&height=180&section=header&text=Rishav%20Raj%20Singh&fontColor=ffffff&fontSize=42" />`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Software+Engineer;Frontend+Developer;Learning+Backend+Engineering;Building+AI-powered+Applications" />`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<a href="https://www.linkedin.com/in/rishavraj-singh">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>`{=html}`</a>`{=html}
+`<a href="mailto:rishavpce@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://github.com/singhrishav23">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>`{=html}`</a>`{=html}
+`<a href="https://leetcode.com/u/singhrishav">`{=html}`<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=singhrishav23&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=singhrishav23&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=singhrishav23&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+------------------------------------------------------------------------
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=singhrishav23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=singhrishav23&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Computer Technology graduate passionate about building scalable web
+applications using **React.js, Node.js, Express.js and MongoDB**.
 
-----
-[![](https://komarev.com/ghpvc/?username=singhrishav23&icon=0&color=0)](https://visitcount.itsvg.in)
+-   Building AI-powered products
+-   Learning Backend Engineering
+-   Solving DSA problems
+-   Open to SDE-1, Backend and Full Stack opportunities
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+------------------------------------------------------------------------
+
+# Tech Stack
+
+## Languages
+
+Java • JavaScript (ES6+) • Python
+
+## Frontend
+
+HTML5 • CSS3 • React.js • Tailwind CSS
+
+## Backend
+
+Node.js • Express.js • REST APIs • JWT
+
+## Database
+
+MongoDB • MySQL
+
+## Tools
+
+Git • GitHub • VS Code • Postman
+
+------------------------------------------------------------------------
+
+# Featured Projects
+
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}ResumeIQ -- AI Resume Analyzer`</b>`{=html}
+```{=html}
+</summary>
+```
+-   React + TypeScript + Tailwind + Vite
+-   AI-powered ATS analysis
+-   Resume upload & authentication
+-   Responsive UI
+
+```{=html}
+</details>
+```
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}PrepAI -- AI Mock Interview Platform`</b>`{=html}
+```{=html}
+</summary>
+```
+-   AI generated interview questions
+-   AI feedback
+-   Modern React frontend
+
+```{=html}
+</details>
+```
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}LedgerPro -- Secure Transaction System`</b>`{=html}
+```{=html}
+</summary>
+```
+-   Node.js + Express
+-   JWT Authentication
+-   MongoDB
+-   REST APIs
+
+```{=html}
+</details>
+```
+
+------------------------------------------------------------------------
+
+# Education
+
+**B.Tech Computer Technology**
+
+Priyadarshini College of Engineering, Nagpur
+
+CGPA: **6.21**
+
+Graduated: **2026**
+
+------------------------------------------------------------------------
+
+# Achievements
+
+  Achievement           Details
+  --------------------- -------------------------------
+  🏆 Skillship Summit   1st Runner-up among 70+ teams
+  🏆 GDSC Event         Winner
+  💻 Hackathons         5+ Participations
+
+------------------------------------------------------------------------
+
+# Current Focus
+
+``` yaml
+learning:
+  - Backend Engineering
+  - Advanced DSA
+building:
+  - MERN Projects
+  - AI Applications
+open_to:
+  - Software Engineer
+  - Backend Developer
+  - Full Stack Developer
+```
+
+------------------------------------------------------------------------
+
+# GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=singhrishav23&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=singhrishav23&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhrishav23&layout=compact&theme=tokyonight)
+
+------------------------------------------------------------------------
+
+# Activity Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=singhrishav23&theme=tokyo-night)
+
+------------------------------------------------------------------------
+
+# Connect
+
+-   LinkedIn: https://linkedin.com/in/rishavraj-singh
+-   GitHub: https://github.com/singhrishav23
+-   Email: rishavpce@gmail.com
+-   LeetCode: https://leetcode.com/u/singhrishav
+
+------------------------------------------------------------------------
+
+> *"Build consistently. Learn continuously. Deliver impact."*
+
+```{=html}
+<p align="center">
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD,7B68EE,8A2BE2&height=120&section=footer"/>`{=html}
+```{=html}
+</p>
+```
