@@ -1,24 +1,42 @@
-# 💫 About Me:
-💻 Software Engineer | Full Stack Developer<br>⚙️ React.js • Node.js • Express.js • MongoDB<br>🤖 Building AI-powered products & scalable web applications<br>🧠 Data Structures & Algorithms | Java<br>🚀 Open to SDE-1 | Frontend | Backend | Full Stack opportunities
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rishavraj Singh
+========================================================================================================================================
 
+Full-Stack Developer (MERN) | React.js • Node.js • MongoDB | Building AI-Integrated Web Applications
+----------------------------------------------------------------------------------------------------
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishavraj-singh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishavpce@gmail.com) 
+💻 Software Engineer | Full Stack Developer
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=singhrishav23&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=singhrishav23&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=singhrishav23&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+⚙️ React.js • Node.js • Express.js • MongoDB
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=singhrishav23&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
+🤖 Building AI-powered products & scalable web applications
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=singhrishav23&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
+🧠 Data Structures & Algorithms | Java
 
----
-[![](https://komarev.com/ghpvc/?username=singhrishav23&icon=0&color=0)](https://visitcount.itsvg.in)
+🚀 Open to SDE-1 | Frontend | Backend | Full Stack opportunities
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* 🌍  I'm based in India
+* ✉️  You can contact me at [rishavpce@gmail.com](mailto:rishavpce@gmail.com)
+
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/singhrishav23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/rishavraj-singh/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<a href="https://www.github.com/singhrishav23" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/singhrishav23?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/singhrishav23"><img src="https://github-readme-stats.vercel.app/api?username=singhrishav23&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="singhrishav23's GitHub stats" /></a>
+
+<a href="http://www.github.com/singhrishav23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=singhrishav23&stroke=ffffff&background=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/singhrishav23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhrishav23&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/singhrishav23/Data-Structures-and-Algorithm-Leetcode-2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=singhrishav23&repo=Data-Structures-and-Algorithm-Leetcode-2&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
