@@ -1,6 +1,8 @@
 <h2 data-importer="text" align="left">👩‍💻  About Me</h2>
 💻 Software Engineer | Full Stack Developer<br>⚙️ React.js • Node.js • Express.js • MongoDB<br>🤖 Building AI-powered products & scalable web applications<br>🧠 Data Structures & Algorithms | Java<br>🚀 Open to SDE-1 | Frontend | Backend | Full Stack opportunities
 
+### 
+
 
 <h3 data-importer="text" align="left">🌐 Socials</h3>
 <div data-importer="socials" align="center">
@@ -11,6 +13,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  />
   </a>
 </div>
+
+### 
 
 <h3 data-importer="text" align="left">🛠 Language and tools</h3>
 <div data-importer="techs" align="left">
@@ -45,19 +49,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
+###
+
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=singhrishav23&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-## 🏆 GitHub Trophies
+###
+
+<h3 data-importer="text" align="left">🏆 GitHub Trophies</h3>
 ![](https://github-profile-trophy.vercel.app/?username=singhrishav23&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+###
+
+<h3 data-importer="text" align="left">🔝 Top Contributed Repo</h3>
 ![](https://github-contributor-stats.vercel.app/api?username=singhrishav23&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
----
+### 
+
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=singhrishav23.singhrishav23&left_color=darkslateblue&right_color=red"  />
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 
+
