@@ -58,11 +58,13 @@
 ###
 
 <h3 data-importer="text" align="left">🏆 GitHub Trophies</h3>
+
 ![](https://github-profile-trophy.vercel.app/?username=singhrishav23&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
 ###
 
 <h3 data-importer="text" align="left">🔝 Top Contributed Repo</h3>
+
 ![](https://github-contributor-stats.vercel.app/api?username=singhrishav23&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
 ### 
