@@ -7,10 +7,10 @@
 <h3 data-importer="text" align="left">🌐 Socials</h3>
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/rishavraj-singh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="37" alt="linkedin logo"  />
   </a>
   <a href="rishavpce@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="37" alt="gmail logo"  />
   </a>
 </div>
 
