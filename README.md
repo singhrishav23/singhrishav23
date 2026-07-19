@@ -1,4 +1,4 @@
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+<h1 data-importer="text" align="left">👩‍💻  About Me</h1>
 💻 Software Engineer | Full Stack Developer<br>⚙️ React.js • Node.js • Express.js • MongoDB<br>🤖 Building AI-powered products & scalable web applications<br>🧠 Data Structures & Algorithms | Java<br>🚀 Open to SDE-1 | Frontend | Backend | Full Stack opportunities
 
 
