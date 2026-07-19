@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">👩‍💻  About Me</h1>
+<h2 data-importer="text" align="left">👩‍💻  About Me</h2>
 💻 Software Engineer | Full Stack Developer<br>⚙️ React.js • Node.js • Express.js • MongoDB<br>🤖 Building AI-powered products & scalable web applications<br>🧠 Data Structures & Algorithms | Java<br>🚀 Open to SDE-1 | Frontend | Backend | Full Stack opportunities
 
 
@@ -43,6 +43,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=singhrishav23&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ## 🏆 GitHub Trophies
