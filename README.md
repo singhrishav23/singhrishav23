@@ -3,8 +3,7 @@
 
 ### 
 
-
-<h3 data-importer="text" align="left">🌐 Socials</h3>
+<h3 data-importer="text" align="left">🤝 Let's Connect</h3>
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/rishavraj-singh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="37" alt="linkedin logo"  />
@@ -50,6 +49,7 @@
 </div>
 
 ###
+
 
 ## 📊 GitHub Stats
 
