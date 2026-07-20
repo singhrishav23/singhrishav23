@@ -1,7 +1,15 @@
+<h1 align="center">Hi 👋, I'm Rishavraj Singh</h1>
+
+
+###
+
+
 <h2 data-importer="text" align="left">👩‍💻  About Me</h2>
 💻 Software Engineer | Full Stack Developer<br>⚙️ React.js • Node.js • Express.js • MongoDB<br>🤖 Building AI-powered products & scalable web applications<br>🧠 Data Structures & Algorithms | Java<br>🚀 Open to SDE-1 | Frontend | Backend | Full Stack opportunities
 
+
 ### 
+
 
 <h3 data-importer="text" align="left">🤝 Let's Connect</h3>
 <div data-importer="socials" align="center">
@@ -13,7 +21,9 @@
   </a>
 </div>
 
+
 ### 
+
 
 <h3 data-importer="text" align="left">🛠 Language and tools</h3>
 <div data-importer="techs" align="left">
@@ -48,10 +58,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
+
 ###
 
 
-## 📊 GitHub Stats
+<h3 data-importer="text" align="left">📊 GitHub Stats</h3>
 
 <div align="center">
 
@@ -66,21 +77,27 @@
 
 </div>
 
+
 ###
+
 
 <h3 data-importer="text" align="left">🏆 GitHub Trophies</h3>
 
 ![](https://github-profile-trophy.vercel.app/?username=singhrishav23&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
+
 ###
+
 
 <h3 data-importer="text" align="left">🔝 Top Contributed Repo</h3>
 
 ![](https://github-contributor-stats.vercel.app/api?username=singhrishav23&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
+
 ### 
 
-## 🏆 Contribution Graph
+
+<h3 data-importer="text" align="left">🏆 Contribution Graph</h3>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhrishav23&theme=tokyo-night&hide_border=true"/>
