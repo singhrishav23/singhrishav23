@@ -74,7 +74,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=singhrishav23&theme=tokyonight&hide_border=true&background=0f1f33&ring=2563eb&fire=93c5fd&currStreakLabel=93c5fd&border_radius=12" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=singhrishav23&theme=tokyonight&hide_border=true&background=0f1f33&ring=2563eb&fire=93c5fd&currStreakLabel=93c5fd&border_radius=12&v=2" width="60%"/>
 </p>
 
 </div>
