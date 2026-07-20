@@ -51,8 +51,19 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=singhrishav23&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-stats-alpha.vercel.app/api?username=singhrishav23&cc=0f1f33&tc=93c5fd&ic=4FBB7F&bc=0f1f33" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singhrishav23&theme=tokyonight" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AxZyzz&theme=tokyonight&hide_border=true&background=0f1f33&ring=2563eb&fire=93c5fd&currStreakLabel=93c5fd&border_radius=12" width="60%"/>
+
 </div>
 
 ###
