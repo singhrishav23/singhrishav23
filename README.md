@@ -69,6 +69,14 @@
 
 ### 
 
+## 🏆 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhrishav23&theme=tokyo-night&hide_border=true"/>
+</p>
+
+###
+
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=singhrishav23.singhrishav23&left_color=darkslateblue&right_color=red"  />
 </div>
